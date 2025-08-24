@@ -14,15 +14,13 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
 <div>
     <a href="https://www.loom.com/share/99fc441a4ce642189348b956a7f01056">
     </a>
     <a href="https://www.loom.com/share/99fc441a4ce642189348b956a7f01056">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/99fc441a4ce642189348b956a7f01056-122f4cfdf1bd0ef7-full-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/99fc441a4ce642189348b956a7f01056-0d3957959cf22f73-full-play.gif">
     </a>
   </div>
-
 ## App Brainstorming (Step 4)
 
 1. Whatsapp
